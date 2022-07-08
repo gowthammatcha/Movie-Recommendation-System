@@ -1,0 +1,778 @@
+ID,Title,Year,IMDb,Rotten Tomatoes,Genres,Language,Runtime
+1,The Irishman,2019,7.8,98/100,"Biography,Crime,Drama","English,Italian,Latin,Spanish,German",209
+2,Dangal,2016,8.4,97/100,"Action,Biography,Drama,Sport","Hindi,English",161
+3,David Attenborough: A Life on Our Planet,2020,9,95/100,"Documentary,Biography",English,83
+4,Lagaan: Once Upon a Time in India,2001,8.1,94/100,"Drama,Musical,Sport","Hindi,English",224
+5,Roma,2018,7.7,94/100,"Action,Drama,History,Romance,War",English,52
+6,To All the Boys I've Loved Before,2018,7.1,94/100,"Comedy,Drama,Romance",English,99
+7,The Social Dilemma,2020,7.6,93/100,"Documentary,Drama",English,94
+8,Okja,2017,7.3,92/100,"Action,Adventure,Drama,Sci-Fi","English,Korean,Spanish",120
+9,The Ballad of Buster Scruggs,2018,7.3,92/100,"Comedy,Drama,Musical,Mystery,Romance,Western","English,French",133
+10,The Trial of the Chicago 7,2020,7.8,92/100,"Drama,History,Thriller","English,Latin,French",129
+11,Article 15,2019,8.2,92/100,"Crime,Drama,Mystery,Thriller",Hindi,130
+12,"Jim & Andy: The Great Beyond- Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",2017,7.7,92/100,Documentary,"English,East-Greenlandic",94
+13,Dolemite Is My Name,2019,7.3,92/100,"Biography,Comedy,Drama",English,118
+14,Mudbound,2017,7.4,91/100,"Drama,War",English,134
+15,Swades,2004,8.2,91/100,Drama,"Hindi,English",210
+16,Fyre,2019,7.2,91/100,"Documentary,Crime,Music",English,97
+17,Miss Americana,2020,7.4,90/100,"Documentary,Biography,Music",English,85
+18,Virunga,2014,8.2,90/100,"Documentary,War","English,French,Swahili",100
+19,Black Friday,2004,8.5,90/100,"Action,Crime,Drama,History","Hindi,English",143
+20,Talvar,2015,8.2,90/100,"Crime,Drama,Mystery,Thriller",Hindi,132
+21,The King,2019,7.2,90/100,"Biography,Drama,History,Romance,War","English,French,Latin",140
+22,John Mulaney: Kid Gorgeous at Radio City,2018,8,89/100,Comedy,English,65
+23,I Am Mother,2019,6.7,89/100,"Drama,Mystery,Sci-Fi,Thriller",English,113
+24,Tell Me Who I Am,2019,7.6,89/100,"Drama,Thriller","Spanish,German,Russian,French,Italian,Polish,English",
+25,The Departed,2006,8.5,89/100,"Crime,Drama,Thriller","English,Cantonese",151
+26,Winter on Fire: Ukraine's Fight for Freedom,2015,8.4,89/100,Documentary,"Ukrainian,Russian,English",102
+27,Terminator 2: Judgment Day,1991,8.5,89/100,"Action,Sci-Fi","English,Spanish",137
+28,I Lost My Body,2019,7.6,89/100,"Animation,Drama,Fantasy,Romance",French,81
+29,Django Unchained,2012,8.4,89/100,"Drama,Western","English,German,French,Italian",165
+30,The Half of It,2020,6.9,89/100,"Comedy,Drama,Romance","Spanish,English,Mandarin,French,Hindi",104
+31,The Boy Who Harnessed the Wind,2019,7.6,89/100,"Biography,Drama,History","Arabic,Nyanja,English",113
+32,The Devil All the Time,2020,7.1,89/100,"Crime,Drama,Thriller",English,138
+33,The Fundamentals of Caring,2016,7.3,89/100,"Comedy,Drama",English,97
+34,Pieces of a Woman,2020,7.1,88/100,Drama,English,126
+35,Gerald's Game,2017,6.5,88/100,"Drama,Horror,Thriller",English,103
+36,On Body and Soul,2017,7.6,88/100,"Drama,Fantasy,Mystery,Romance",Hungarian,116
+37,Shutter Island,2010,8.2,88/100,"Mystery,Thriller","English,German",138
+38,Always Be My Maybe,2019,6.8,88/100,"Comedy,Romance",English,101
+39,The Intouchables,2011,8.5,88/100,"Biography,Comedy,Drama","French,English",112
+40,Bill Burr: Paper Tiger,2019,8.2,87/100,Comedy,English,67
+41,Special 26,2013,8,87/100,"Crime,Drama,Thriller",Hindi,144
+42,Kiss the Ground,2020,8.3,87/100,Documentary,English,84
+43,Crip Camp: A Disability Revolution,2020,7.7,87/100,"Documentary,History",English,106
+44,Extraction,2020,6.7,87/100,"Action,Thriller","English,Hindi,Bangla",116
+45,No Direction Home: Bob Dylan,2005,8.5,87/100,"Documentary,Biography",English,359
+46,Kabhi Khushi Kabhie Gham,2001,7.4,87/100,"Drama,Musical,Romance","Hindi,English",210
+47,His House,2020,6.5,87/100,"Drama,Horror,Thriller","English,Dinka",93
+48,Super Deluxe,2019,8.4,87/100,"Comedy,Crime,Drama,Thriller",Tamil,176
+49,The Guernsey Literary & Potato Peel Pie Society,2018,7.4,87/100,"Drama,Romance,War","English,German,French",124
+50,A Secret Love,2020,7.9,87/100,"Documentary,Drama",English,81
+51,The Night Comes for Us,2018,7,87/100,"Action,Thriller","Indonesian,English,Mandarin,French",121
+52,The Big Lebowski,1998,8.1,87/100,"Comedy,Crime,Sport","English,German,Hebrew,Spanish",117
+53,Pad Man,2018,7.9,87/100,"Comedy,Drama",Hindi,140
+54,American Factory,2019,7.4,86/100,Documentary,"English,Mandarin",110
+55,Bird Box,2018,6.6,86/100,"Horror,Sci-Fi",English,124
+56,The Pianist,2002,8.5,86/100,"Biography,Drama,Music,War","English,German,Russian",150
+57,3 Idiots,2009,8.4,86/100,"Comedy,Drama","Hindi,English",170
+58,The Distinguished Citizen,2016,7.5,86/100,"Comedy,Drama",Spanish,118
+59,A Shaun the Sheep Movie: Farmageddon,2019,6.8,86/100,"Animation,Adventure,Comedy,Family,Fantasy,Sci-Fi",English,86
+60,A Clockwork Orange,1971,8.3,86/100,"Crime,Drama,Sci-Fi",English,136
+61,What Happened to Monday,2017,6.9,86/100,"Action,Crime,Fantasy,Mystery,Sci-Fi,Thriller",English,123
+62,Anthony Jeselnik: Thoughts and Prayers,2015,7.8,86/100,Comedy,English,59
+63,The White Helmets,2016,7.5,86/100,"Documentary,Short,War","Arabic,English",41
+64,Invader ZIM: Enter the Florpus,2019,7.5,86/100,"Animation,Action,Adventure,Comedy,Family,Sci-Fi","English,Korean",71
+65,Happy as Lazzaro,2018,7.5,85/100,"Drama,Fantasy,Mystery","Italian,English",128
+66,Chasing Coral,2017,8.1,85/100,Documentary,English,93
+67,Kal Ho Naa Ho,2003,7.9,85/100,"Comedy,Drama,Musical,Romance","Hindi,English",186
+68,Pan's Labyrinth,2006,8.2,85/100,"Drama,Fantasy,War",Spanish,118
+69,Team Foxcatcher,2016,7.3,85/100,"Documentary,Biography,Crime,History,Sport",English,90
+70,The Meyerowitz Stories (New and Selected),2017,6.9,85/100,"Comedy,Drama",English,112
+71,Casino Royale,2006,8,85/100,"Action,Adventure,Thriller","English,Serbian,German,Italian,French",144
+72,The Hateful Eight,2015,7.8,85/100,"Crime,Drama,Mystery,Thriller,Western","English,Spanish,French",168
+73,Rush,2013,8.1,84/100,"Action,Biography,Drama,Sport","English,German,Italian,French,Spanish",123
+74,Zombieland,2009,7.6,84/100,"Adventure,Comedy,Fantasy,Horror,Sci-Fi","English,Spanish,French",88
+75,Eurovision Song Contest: The Story of Fire Saga,2020,6.5,84/100,"Comedy,Music","English,Icelandic,Portuguese",123
+76,Kapoor & Sons,2016,7.7,84/100,"Comedy,Drama,Family,Romance",Hindi,132
+77,The Perfection,2018,6.2,84/100,"Drama,Horror,Music,Thriller","English,Mandarin",90
+78,Dave Chappelle: Sticks & Stones,2019,8.5,84/100,Comedy,English,65
+79,There Will Be Blood,2007,8.2,84/100,Drama,"English,American Sign Language",158
+80,Million Dollar Baby,2004,8.1,84/100,"Drama,Sport","English,Irish",132
+81,The Social Network,2010,7.7,84/100,"Biography,Drama","English,French",120
+82,The Christmas Chronicles,2018,7,84/100,"Adventure,Comedy,Family,Fantasy","English,Spanish,French,Romanian",104
+83,Monty Python and the Holy Grail,1975,8.2,84/100,"Adventure,Comedy,Fantasy","English,French,Latin",91
+84,The Pixar Story,2007,7.8,84/100,Documentary,English,88
+85,Ma Rainey's Black Bottom,2020,7,84/100,"Drama,Music",English,94
+86,Calibre,2018,6.8,84/100,"Drama,Thriller",English,101
+87,Silver Linings Playbook,2012,7.7,84/100,"Comedy,Drama,Romance",English,122
+88,Over the Moon,2020,6.4,84/100,"Animation,Adventure,Comedy,Family,Fantasy,Musical,Sci-Fi","English,Chinese",95
+89,"What Happened, Miss Simone?",2015,7.6,84/100,"Documentary,Biography,Music","English,French",101
+90,Nightcrawler,2014,7.8,84/100,"Crime,Drama,Thriller",English,117
+91,1922,2017,6.3,84/100,"Crime,Drama,Horror,Mystery,Thriller",English,102
+92,Paddleton,2019,7.2,84/100,"Comedy,Drama",English,89
+93,Cargo,2017,6.3,84/100,"Drama,Horror,Sci-Fi,Thriller","English,Aboriginal",105
+94,Rain Man,1988,8,83/100,Drama,"English,Italian",133
+95,Cuba and the Cameraman,2017,8.3,83/100,Documentary,"English,Spanish",113
+96,The Ritual,2017,6.3,83/100,"Horror,Mystery,Thriller","English,Swedish",94
+97,The Hater,2020,7.1,83/100,"Drama,Thriller","Polish,English",135
+98,The Edge of Democracy,2019,7.2,83/100,"Documentary,History","Portuguese,English",121
+99,22-Jul,2018,6.8,83/100,"Crime,Drama,History,Thriller","English,Norwegian",143
+100,Adam Sandler: 100% Fresh,2018,7.6,83/100,"Comedy,Music",English,73
+101,Guru,2007,7.7,83/100,"Comedy,Drama",English,114
+102,A Twelve-Year Night,2018,7.5,83/100,"Biography,Crime,Drama,History",Spanish,122
+103,Dumplin',2018,6.6,83/100,"Comedy,Drama",English,110
+104,The Conjuring,2013,7.5,83/100,"Horror,Mystery,Thriller","English,Latin",112
+105,Marriage Story,2019,7.9,83/100,"Comedy,Drama,Romance","English,Spanish",137
+106,My Octopus Teacher,2020,8.1,83/100,Documentary,English,85
+107,About Time,2013,7.8,83/100,"Comedy,Drama,Fantasy,Romance,Sci-Fi",English,123
+108,Hey Arnold! The Jungle Movie,2017,7.6,83/100,"Animation,Adventure,Comedy,Family,Fantasy","English,Korean",81
+109,Kung Fu Panda,2008,7.6,83/100,"Animation,Action,Adventure,Comedy,Family",English,92
+110,Superbad,2007,7.6,83/100,Comedy,English,113
+111,The Invisible Guest,2016,8.1,83/100,"Crime,Drama,Mystery,Thriller",Spanish,106
+112,Chinatown,1974,8.2,82/100,"Drama,Mystery,Thriller","English,Cantonese,Spanish",130
+113,Mystic River,2003,7.9,82/100,"Crime,Drama,Mystery,Thriller",English,138
+114,The Theory of Everything,2014,7.7,82/100,"Biography,Drama,Romance","English,French",123
+115,Springsteen On Broadway,2018,8.5,82/100,"Documentary,Music",English,153
+116,The Life Ahead,2020,6.8,82/100,Drama,"Italian,Spanish,Hebrew,Romanian",94
+117,The Terminal,2004,7.4,82/100,"Comedy,Drama,Romance","English,Bulgarian,Spanish,Russian,Mandarin,German,French",128
+118,Scott Pilgrim vs. the World,2010,7.5,82/100,"Action,Comedy,Fantasy,Romance",English,112
+119,Being Elmo: A Puppeteer's Journey,2011,7.6,82/100,Documentary,English,80
+120,Life of Brian,1979,8.1,82/100,Comedy,"English,Latin",94
+121,The Resistance Banker,2018,6.9,82/100,"Biography,Drama,War",Dutch,123
+122,How to Train Your Dragon 2,2014,7.8,82/100,"Animation,Action,Adventure,Family,Fantasy",English,102
+123,The Endless Trench,2019,7.2,82/100,"Action,Drama,History,Thriller,War",Spanish,147
+124,Even the Rain,2010,7.4,82/100,"Drama,History","Spanish,Quechua,English",103
+125,Love Actually,2003,7.6,82/100,"Comedy,Drama,Romance","English,Portuguese,French",135
+126,Dear Ex,2018,7.4,82/100,"Comedy,Drama,Romance",Mandarin,100
+127,Braven,2018,5.9,82/100,"Action,Thriller",English,94
+128,Period. End of Sentence.,2018,7.4,82/100,"Documentary,Short","Hindi,English",26
+129,Captain Fantastic,2016,7.9,82/100,"Comedy,Drama","English,Esperanto,German,Chinese",118
+130,Veronica,2017,6.2,81/100,Comedy,English,94
+131,The Siege of Jadotville,2016,7.2,81/100,"Action,Drama,History,Thriller,War","English,Irish,French,Spanish",108
+132,Into the Inferno,2016,7.2,81/100,Documentary,English,104
+133,Ricky Gervais: Humanity,2018,8,81/100,Comedy,English,79
+134,A Whisker Away,2020,6.7,81/100,"Animation,Adventure,Family,Fantasy,Romance",Japanese,104
+135,Lady Bird,2017,7.4,81/100,"Comedy,Drama","English,Spanish",94
+136,Road to Perdition,2002,7.7,81/100,"Crime,Drama,Thriller",English,117
+137,Boogie Nights,1997,7.9,81/100,Drama,English,155
+138,Total Recall,1990,7.5,81/100,"Action,Sci-Fi,Thriller",English,113
+139,Bo Burnham: Inside,2021,8.8,81/100,"Comedy,Drama,Music",English,87
+140,Snowpiercer,2013,7.1,81/100,"Action,Drama,Sci-Fi,Thriller",English,60
+141,Circus of Books,2019,7.1,81/100,"Documentary,Biography,History",English,92
+142,Tallulah,2016,6.7,81/100,"Comedy,Drama,Romance",English,111
+143,The Conjuring 2,2016,7.3,81/100,"Horror,Mystery,Thriller",English,134
+144,They'll Love Me When I'm Dead,2018,7.4,81/100,Documentary,English,98
+145,Nocturnal Animals,2016,7.5,81/100,"Drama,Thriller",English,116
+146,Get Me Roger Stone,2017,7.3,81/100,"Documentary,Biography",English,92
+147,Hachi: A Dog's Tale,2009,8.1,81/100,"Biography,Drama,Family","English,Japanese",93
+148,Dances with Wolves,1990,8,80/100,"Adventure,Drama,Western","English,Sioux,Pawnee",181
+149,Udta Punjab,2016,7.8,80/100,"Action,Crime,Drama","Bhojpuri,Punjabi,Hindi",148
+150,Bareilly's Barfi,2017,7.5,80/100,"Comedy,Romance",Hindi,116
+151,Divines,2016,7.4,80/100,"Crime,Drama",French,105
+152,Maktub,2017,7.3,80/100,"Comedy,Drama",Hebrew,100
+153,Ittefaq,2017,7.2,80/100,"Crime,Mystery,Thriller",Hindi,105
+154,Hannah Gadsby: Nanette,2018,8.3,80/100,"Documentary,Comedy",English,69
+155,Ali Wong: Hard Knock Wife,2018,7.4,80/100,Comedy,English,64
+156,Seven Pounds,2008,7.6,80/100,Drama,"English,Spanish",123
+157,Uncut Gems,2019,7.4,80/100,"Crime,Drama,Thriller","English,Hebrew",135
+158,The Kindergarten Teacher,2018,6.7,80/100,"Drama,Thriller",English,96
+159,Les MisÃ©rables,2012,7.6,80/100,"Drama,History,Musical,Romance,War",English,158
+160,The Sky Is Pink,2019,7.6,80/100,"Drama,Romance",Hindi,143
+161,Next Gen,2018,6.6,80/100,"Animation,Action,Adventure,Comedy,Family,Sci-Fi","English,Mandarin",106
+162,Tom Segura: Disgraceful,2018,7.6,80/100,"Documentary,Comedy",English,71
+163,My Happy Family,2017,7.4,80/100,Drama,Georgian,120
+164,The American Meme,2018,6.6,80/100,Documentary,English,98
+165,Badla,2019,7.8,80/100,"Crime,Drama,Mystery,Thriller",Hindi,118
+166,Okko's Inn,2018,7.1,80/100,"Animation,Adventure,Drama,Family,Fantasy","Japanese,English",94
+167,The Willoughbys,2020,6.4,80/100,"Animation,Adventure,Comedy,Family",English,90
+168,Hunt for the Wilderpeople,2016,7.9,80/100,"Adventure,Comedy,Drama",English,101
+169,Stardust,2007,7.6,79/100,"Adventure,Family,Fantasy,Romance",English,127
+170,Wheelman,2017,6.4,79/100,"Action,Crime,Thriller",English,82
+171,The Artist,2011,7.9,79/100,"Comedy,Drama,Romance","English,French",100
+172,On My Skin,2018,7.3,79/100,"Biography,Drama",Italian,100
+173,Gaga: Five Foot Two,2017,7,79/100,"Documentary,Music",English,100
+174,Hugo,2011,7.5,79/100,"Drama,Family,Fantasy,Mystery",English,126
+175,The Impossible,2012,7.6,79/100,"Drama,History,Thriller","English,Thai,Swedish",114
+176,War Dogs,2016,7.1,79/100,"Biography,Comedy,Crime,Drama,War","English,Arabic,Albanian,Romanian",114
+177,Ip Man,2008,8,79/100,"Action,Biography,Drama,History","Cantonese,Mandarin,Japanese",106
+178,The Speed Cubers,2020,7.4,79/100,"Documentary,Short,Sport",English,39
+179,Kung Fu Panda 2,2011,7.2,79/100,"Animation,Action,Adventure,Comedy,Family,Fantasy",English,90
+180,The Dirt,2019,7,79/100,"Biography,Comedy,Drama,Music",English,107
+181,Andhadhun,2018,8.2,79/100,"Crime,Drama,Music,Mystery,Thriller","Hindi,English",139
+182,Atlantics,2019,6.7,79/100,"Drama,Mystery,Romance","Wolof,French,English,Arabic",106
+183,37 Seconds,2019,7.3,79/100,Drama,"Japanese,Thai",115
+184,El Camino: A Breaking Bad Movie,2019,7.3,79/100,"Action,Crime,Drama","English,Spanish",122
+185,Underworld,2003,7,79/100,"Action,Fantasy,Thriller",English,121
+186,The Ring,2002,7.1,79/100,"Horror,Mystery",English,115
+187,Hold the Dark,2018,5.6,79/100,"Action,Drama,Thriller",English,125
+188,The Karate Kid,1984,7.3,79/100,"Action,Drama,Family,Sport","English,Japanese",126
+189,Quincy,2018,7.6,79/100,"Crime,Drama,Mystery,Thriller",English,60
+190,The Patriot,2000,7.2,79/100,"Action,Drama,History,War","English,French",165
+191,Get In,2019,5.6,79/100,"Drama,Horror,Thriller",French,97
+192,ZZ Top: That Little Ol' Band From Texas,2019,7.5,79/100,"Documentary,Biography,Music",English,91
+193,Jerry Before Seinfeld,2017,7,79/100,Comedy,English,62
+194,Mike Birbiglia: The New One,2019,7.7,78/100,Comedy,English,85
+195,A Silent Voice: The Movie,2016,8.2,78/100,"Animation,Drama","Japanese,Japanese Sign Language",130
+196,Klaus,2019,8.2,78/100,"Animation,Adventure,Comedy,Family","English,Saami",96
+197,Snowden,2016,7.3,78/100,"Biography,Crime,Drama,Thriller","English,American Sign Language,Russian",134
+198,"Nick Kroll & John Mulaney: Oh, Hello on Broadway",2017,7.7,78/100,,,
+199,What's Eating Gilbert Grape,1993,7.7,78/100,Drama,English,118
+200,The Da Vinci Code,2006,6.6,78/100,"Mystery,Thriller","English,French,Latin,Spanish",149
+201,Stranger Than Fiction,2006,7.5,78/100,"Comedy,Drama,Fantasy,Romance",English,113
+202,Don 2,2011,7.1,78/100,"Action,Crime,Thriller","Hindi,English,German",148
+203,Elena,2013,7.6,78/100,"Crime,Drama,Thriller",Russian,109
+204,Real Steel,2011,7,78/100,"Action,Drama,Sci-Fi,Sport","English,Ukrainian",127
+205,The Founder,2017,7.2,78/100,"Biography,Drama","English,Yiddish",115
+206,Stargate,1994,7.1,78/100,"Action,Adventure,Drama,Sci-Fi",English,44
+207,Shirkers,2018,7.4,78/100,Documentary,English,97
+208,Chef,2014,7.3,78/100,"Adventure,Comedy,Drama","English,Spanish",114
+209,Fire in the Blood,2013,7.7,78/100,"Documentary,History","English,Hindi,Manipuri,Xhosa",87
+210,Austin Powers: International Man of Mystery,1997,7,78/100,"Adventure,Comedy",English,94
+211,Miles Davis: Birth of the Cool,2019,7.4,78/100,Biography,,115
+212,Insidious,2010,6.8,78/100,"Horror,Mystery,Thriller",English,103
+213,Screwball,2019,7.1,78/100,Documentary,English,105
+214,The Old Guard,2020,6.7,78/100,"Action,Adventure,Fantasy,Thriller","English,Arabic,French,Italian",125
+215,Rango,2011,7.2,78/100,"Animation,Adventure,Comedy,Family,Western",English,107
+216,Before I Wake,2016,6.2,78/100,"Drama,Fantasy,Horror,Thriller",English,97
+217,The Disaster Artist,2017,7.4,78/100,"Biography,Comedy,Drama",English,104
+218,Fruitvale Station,2013,7.5,77/100,"Biography,Crime,Drama,Romance","English,Spanish",85
+219,The Florida Project,2017,7.6,77/100,Drama,"English,Spanish,Portuguese",111
+220,Behind the Curve,2018,6.5,77/100,Documentary,English,96
+221,Lawless,2012,7.3,77/100,"Crime,Drama",English,116
+222,Errementari: The Blacksmith and the Devil,2018,6.4,77/100,"Fantasy,Horror",Basque,98
+223,Audrie & Daisy,2016,7.2,77/100,"Documentary,Crime",English,95
+224,Quantum of Solace,2008,6.6,77/100,"Action,Adventure,Thriller","English,Spanish,Italian,French,Swiss German,German",106
+225,The Master,2012,7.2,77/100,Drama,"English,Filipino",138
+226,Layer Cake,2004,7.3,77/100,"Action,Crime,Drama,Thriller","English,Romanian",105
+227,Flipped,2010,7.7,77/100,"Comedy,Drama,Romance",English,90
+228,Steve Martin and Martin Short: An Evening You Will Forget for the Rest of Your Life,2018,7.1,77/100,Comedy,English,74
+229,Friends with Benefits,2011,6.5,77/100,"Comedy,Romance",English,109
+230,Tig,2015,7.4,77/100,Documentary,English,95
+231,Roll Red Roll,2019,7.1,77/100,"Documentary,Crime",English,80
+232,Enola Holmes,2020,6.6,77/100,"Action,Adventure,Crime,Drama,Mystery",English,123
+233,PK,2015,8.1,77/100,"Comedy,Drama,Musical,Sci-Fi",Hindi,153
+234,Good Time,2017,7.4,77/100,"Crime,Drama,Thriller",English,102
+235,The Next Three Days,2010,7.3,77/100,"Action,Crime,Drama,Romance,Thriller",English,133
+236,Miracle in Cell No. 7,2019,8.2,77/100,Drama,Turkish,132
+237,Like Stars on Earth,2007,8.4,77/100,"Drama,Family",Hindi,165
+238,Trixie Mattel: Moving Parts,2019,7.3,77/100,Documentary,English,91
+239,Talaash,2012,7.2,77/100,"Crime,Drama,Mystery,Thriller","Hindi,English,Marathi,Tamil",140
+240,Evelyn,2019,7.1,77/100,Drama,English,94
+241,I Am Sam,2001,7.6,77/100,Drama,English,132
+242,In the Shadow of the Moon,2019,6.2,77/100,"Crime,Mystery,Sci-Fi,Thriller",English,115
+243,Neon Genesis Evangelion: The End of Evangelion,1997,8.1,77/100,"Animation,Action,Drama,Fantasy,Sci-Fi",Japanese,87
+244,Memoirs of a Geisha,2005,7.3,76/100,"Drama,Romance","English,Japanese",145
+245,Mad Max,1979,6.9,76/100,"Action,Adventure,Sci-Fi,Thriller",English,88
+246,John Leguizamo's Latin History for Morons,2018,7.5,76/100,Comedy,English,
+247,And Breathe Normally,2018,6.9,76/100,Drama,"Icelandic,English",95
+248,The Killing of a Sacred Deer,2017,7,76/100,"Drama,Horror,Mystery,Thriller","English,French",121
+249,Angels & Demons,2009,6.7,76/100,"Action,Mystery,Thriller","English,Italian,Latin,French,Swiss German,German,Chinese,Spanish,Polish",138
+250,Smoke & Mirrors,2016,6.9,76/100,"Biography,Thriller","Spanish,French,English",123
+251,Bright,2017,6.3,76/100,"Action,Fantasy,Thriller","English,Spanish",117
+252,Yes Man,2008,6.8,76/100,"Comedy,Romance","English,Korean",104
+253,Murder Mystery,2019,6,76/100,"Action,Comedy,Crime,Mystery,Romance","English,French,Latin,Spanish",97
+254,Pink,2016,8.1,76/100,"Crime,Drama,Thriller",Hindi,136
+255,The Photographer of Mauthausen,2018,6.8,76/100,"Biography,Drama,History,Thriller,War","Spanish,German",110
+256,Midnight Run,1988,7.5,76/100,"Action,Comedy,Crime,Thriller",English,126
+257,Flavors of Youth,2018,6.6,76/100,"Animation,Drama,Romance","Mandarin,English",74
+258,13th,2016,8.2,76/100,"Documentary,Crime,History",English,100
+259,Ravenous,2017,5.8,76/100,"Adventure,Comedy,Horror","English,Italian,Spanish,Washoe",101
+260,Austin Powers: The Spy Who Shagged Me,1999,6.6,76/100,"Action,Adventure,Comedy,Crime","English,German",95
+261,The Life of David Gale,2003,7.5,76/100,"Crime,Drama,Thriller","English,Spanish",130
+262,Tramps,2016,6.5,76/100,"Adventure,Romance","English,Polish",82
+263,The Girl Next Door,2004,6.7,76/100,"Comedy,Drama,Romance",English,109
+264,The Two Popes,2019,7.6,76/100,"Comedy,Drama","English,Spanish,Italian,Latin,Portuguese,French,German",125
+265,The Wandering Earth,2019,6,76/100,"Action,Adventure,Sci-Fi,Thriller","Mandarin,English,Russian,French,Japanese,Korean,Indonesian,Hindi,German",125
+266,Just Another Love Story,2007,7.2,76/100,"Crime,Drama,Thriller",Danish,100
+267,Eye for an Eye,2019,6.6,76/100,Thriller,"English,Spanish",98
+268,Patton Oswalt: Annihilation,2017,7.2,76/100,Comedy,English,66
+269,Joan Didion: The Center Will Not Hold,2017,7.5,76/100,Documentary,English,94
+270,Steve Jobs,2015,7.2,76/100,"Biography,Drama",English,122
+271,White Fang,2018,7,76/100,"Adventure,Drama",English,107
+272,A Monster Calls,2016,7.5,76/100,"Adventure,Drama,Family,Fantasy",English,108
+273,Olympus Has Fallen,2013,6.5,76/100,"Action,Thriller","English,Korean",119
+274,Talladega Nights: The Ballad of Ricky Bobby,2006,6.6,76/100,"Comedy,Sport","English,French",108
+275,The Time Traveler's Wife,2009,7.1,76/100,"Comedy,Drama,Fantasy,Romance,Sci-Fi","English,German",107
+276,State of Play,2009,7.1,76/100,"Crime,Drama,Mystery,Thriller","English,Cantonese",127
+277,The Outlaw Josey Wales,1976,7.8,76/100,Western,"English,Navajo,Spanish",135
+278,The Bank Job,2008,7.2,76/100,"Crime,Drama,Thriller","English,Latin",111
+279,Miss Sloane,2016,7.5,76/100,Drama,English,132
+280,Unknown,2011,6.8,75/100,"Action,Mystery,Thriller","English,German,Turkish,Arabic",113
+281,6 Underground,2019,6.1,75/100,"Action,Thriller","English,Turkmen,Cantonese,Italian,Spanish,Ukrainian,French",128
+282,Uncorked,2020,6.3,75/100,Drama,"English,French",104
+283,Petta,2019,7.3,75/100,"Action,Drama",Tamil,171
+284,Justin Timberlake + The Tennessee Kids,2016,7,75/100,"Documentary,Music",English,90
+285,My Fair Lady,1964,7.8,75/100,"Drama,Family,Musical,Romance",English,170
+286,"Bikram: Yogi, Guru, Predator",2019,6.7,75/100,"Documentary,Crime",English,86
+287,A Futile and Stupid Gesture,2018,6.8,75/100,"Biography,Comedy",English,101
+288,The Dig,2021,7.1,75/100,"Biography,Drama,History",English,112
+289,Legally Blonde,2001,6.3,75/100,"Comedy,Romance",English,96
+290,Legend,2015,5.5,75/100,"Biography,Crime,Drama,Thriller",English,132
+291,Notes on Blindness,2016,6.5,75/100,"Documentary,Drama",English,90
+292,When We First Met,2018,6.8,75/100,"Comedy,Fantasy,Romance","English,Mandarin",97
+293,Best Worst Thing That Ever Could Have Happened...,2016,7.5,75/100,Documentary,English,95
+294,Imperial Dreams,2014,6.7,75/100,Drama,English,87
+295,Black Mirror: Bandersnatch,2018,7.1,75/100,"Drama,Fantasy,Mystery,Sci-Fi,Thriller",English,90
+296,Queen,2013,8.2,75/100,"Adventure,Comedy,Drama","Hindi,English,French,Japanese,Dutch",146
+297,Joshua: Teenager vs. Superpower,2017,7.1,75/100,Documentary,"English,Cantonese",79
+298,Air Force One,1997,6.5,75/100,"Action,Drama,Thriller","English,Russian",124
+299,Shot Caller,2017,7.3,75/100,"Crime,Drama,Thriller",English,121
+300,What Dreams May Come,1998,7,75/100,"Drama,Fantasy,Romance",English,113
+301,Angel Has Fallen,2019,6.4,75/100,"Action,Thriller",English,121
+302,Crimson Peak,2015,6.5,75/100,"Drama,Fantasy,Horror,Mystery,Thriller",English,119
+303,Lemony Snicket's A Series of Unfortunate Events,2004,6.8,75/100,"Adventure,Comedy,Drama,Family,Mystery",English,50
+304,The Red Sea Diving Resort,2019,6.3,75/100,"Drama,History,Thriller","English,Amharic",129
+305,The Angel,2018,6.6,75/100,"Biography,Drama,Thriller","English,Hebrew,Arabic,Italian",114
+306,Army of the Dead,2021,5.8,75/100,"Action,Crime,Horror,Sci-Fi,Thriller","English,Spanish,German,French",148
+307,Madagascar 3: Europe's Most Wanted,2012,6.8,75/100,"Animation,Adventure,Comedy,Family","English,Spanish",95
+308,Icarus,2017,7.9,75/100,"Documentary,Sport","English,Russian",120
+309,Collateral Beauty,2016,6.8,75/100,"Drama,Romance",English,97
+310,The Danish Girl,2015,7.1,75/100,"Biography,Drama,Romance","English,French,German",119
+311,Green Zone,2010,6.8,75/100,"Action,Drama,Thriller,War","English,Arabic",115
+312,John Mulaney: New in Town,2012,8.3,75/100,Comedy,English,60
+313,Strong Island,2017,6.4,75/100,"Documentary,Crime",English,107
+314,The White Tiger,2021,7.1,75/100,"Crime,Drama","Hindi,English",125
+315,Defiance,2008,7.2,75/100,"Action,Drama,Sci-Fi","English,Hebrew",43
+316,A Fortunate Man,2018,7.2,75/100,Drama,"Danish,German",162
+317,The Death of Stalin,2017,7.2,75/100,"Comedy,Drama,History",English,107
+318,2012,2009,5.8,75/100,"Action,Adventure,Sci-Fi","English,French,Tibetan,Mandarin,Russian,Hindi,Portuguese,Latin,Italian,Spanish",158
+319,Underworld: Awakening,2012,6.3,74/100,"Action,Fantasy,Horror,Sci-Fi","English,Russian",88
+320,Philomena,2013,7.7,74/100,"Biography,Comedy,Drama",English,98
+321,Sanju,2018,8.1,74/100,"Biography,Comedy,Drama",Hindi,155
+322,Nappily Ever After,2018,6.4,74/100,"Comedy,Drama,Romance",English,98
+323,I Care a Lot,2021,6.3,74/100,"Comedy,Crime,Thriller",English,118
+324,The Butler,2013,7.2,74/100,"Biography,Drama",English,132
+325,Qarib Qarib Singlle,2017,7.1,74/100,"Comedy,Romance",Hindi,125
+326,A Single Man,2009,7.5,74/100,"Drama,Romance","English,Spanish",99
+327,Home,2015,6.6,74/100,"Animation,Adventure,Comedy,Family,Fantasy,Sci-Fi","English,French",94
+328,Zack and Miri Make a Porno,2008,6.5,74/100,"Comedy,Romance",English,101
+329,Seeing Allred,2018,7,74/100,Documentary,English,96
+330,Dostana,2008,6.5,74/100,"Comedy,Drama,Romance","Hindi,English",145
+331,Remember Me,2010,7.1,74/100,"Animation,Adventure,Drama,Family,Fantasy,Music,Mystery","English,Spanish",105
+332,Underworld: Rise of the Lycans,2009,6.6,74/100,"Action,Fantasy,Thriller",English,92
+333,The Lovely Bones,2009,6.7,74/100,"Drama,Fantasy,Thriller",English,135
+334,Madagascar: Escape 2 Africa,2008,6.6,74/100,"Animation,Adventure,Comedy,Family","English,Italian",89
+335,No Strings Attached,2011,6.2,74/100,"Comedy,Romance","English,Ukrainian",108
+336,Heroin(e),2017,6.8,74/100,"Documentary,Short",English,39
+337,A Ghost Story,2017,6.9,74/100,"Drama,Fantasy,Romance","English,Spanish",92
+338,Safety Not Guaranteed,2012,6.8,74/100,"Comedy,Drama,Romance",English,86
+339,Game Over,2019,7.1,74/100,"Adventure,Comedy,Drama,Family,Romance,Sport","English,Brazilian Sign Language",96
+340,Peppermint,2018,6.5,74/100,"Action,Crime,Drama,Thriller","English,Spanish",101
+341,Have a Good Trip: Adventures in Psychedelics,2020,6.8,74/100,"Documentary,Comedy",English,85
+342,Beasts of No Nation,2015,7.7,74/100,"Drama,War","English,Akan",137
+343,Extinction,2018,5.8,74/100,"Action,Drama,Sci-Fi,Thriller",English,95
+344,Nobody Knows I'm Here,2020,6.5,74/100,"Drama,Music","Spanish,English",91
+345,ARQ,2016,6.4,74/100,"Action,Sci-Fi,Thriller",English,88
+346,Ali's Wedding,2017,6.9,74/100,"Comedy,Drama,Romance","English,Arabic,Persian",110
+347,Bo Burnham: Make Happy,2016,8.4,74/100,"Comedy,Music",English,60
+348,Mank,2020,6.9,74/100,"Biography,Comedy,Drama","English,German,Latin",131
+349,"Extremely Wicked, Shockingly Evil and Vile",2019,6.7,74/100,"Biography,Crime,Drama,Thriller",English,110
+350,Due Date,2010,6.5,74/100,"Comedy,Drama","English,Spanish",95
+351,Between Two Ferns: The Movie,2019,6.1,74/100,Comedy,English,82
+352,Ip Man 2,2010,7.5,74/100,"Action,Biography,Drama,History","Cantonese,Chinese,English",108
+353,Mirage,2018,7.4,74/100,"Drama,Fantasy,Mystery,Romance,Thriller",Spanish,128
+354,Puss in Boots,2011,6.6,74/100,"Animation,Adventure,Comedy,Family,Fantasy","English,Spanish",90
+355,Austin Powers in Goldmember,2002,6.2,74/100,"Action,Adventure,Comedy,Crime","English,Japanese,German,French",94
+356,The Kissing Booth,2018,6,73/100,"Comedy,Romance",English,105
+357,Hush,2016,6.6,73/100,"Horror,Thriller","English,American Sign Language",82
+358,Lost Bullet,2020,6.2,73/100,"Action,Crime,Thriller",French,92
+359,Dil Chahta Hai,2001,8.1,73/100,"Comedy,Drama,Romance",Hindi,183
+360,Election,1999,7.2,73/100,"Comedy,Drama,Romance","English,Spanish",103
+361,Soni,2019,6.9,73/100,"Crime,Drama",English,110
+362,BÄhubali: The Beginning,2015,8.4,73/100,"Action,Drama","Telugu,Tamil",159
+363,Killing Them Softly,2012,6.2,73/100,"Crime,Drama,Thriller",English,97
+364,Swordfish,2001,6.5,73/100,"Action,Crime,Thriller","English,German",99
+365,Wish Dragon,2021,7.2,73/100,"Animation,Adventure,Comedy,Family,Fantasy",English,98
+366,Raees,2017,6.8,73/100,"Action,Crime,Drama",Hindi,143
+367,Let It Snow,2019,5.8,73/100,"Comedy,Romance",English,92
+368,The Babysitter: Killer Queen,2020,5.8,73/100,"Comedy,Horror",English,101
+369,Hardcore Henry,2015,6.7,73/100,"Action,Adventure,Sci-Fi,Thriller","English,Russian",96
+370,Tig Notaro: Happy To Be Here,2018,6.7,73/100,Comedy,English,58
+371,Spelling the Dream,2020,6.9,73/100,Documentary,English,82
+372,Knock Down the House,2019,7.1,73/100,Documentary,English,87
+373,Resident Evil: Extinction,2007,6.2,73/100,"Action,Horror,Sci-Fi",English,94
+374,Polar,2019,6.3,73/100,"Action,Crime,Drama,Thriller","English,Russian",118
+375,Saving Capitalism,2017,6.8,73/100,Documentary,English,73
+376,The Untold Tales of Armistead Maupin,2017,7.3,73/100,Documentary,English,91
+377,The Mitchells vs. The Machines,2021,7.7,73/100,"Comedy,Talk-Show",English,138
+378,Spenser Confidential,2020,6.2,73/100,"Action,Comedy,Crime,Drama,Mystery,Thriller","English,Hindi",111
+379,Psychokinesis,2018,5.9,73/100,"Action,Comedy,Fantasy",Korean,101
+380,Monsters vs Aliens,2009,6.4,73/100,"Short,Comedy,Family,Fantasy",,
+381,Twilight,2008,5.2,73/100,"Drama,Fantasy,Romance",English,122
+382,Self/less,2015,6.5,73/100,"Action,Mystery,Sci-Fi,Thriller",English,117
+383,The Highwaymen,2019,6.9,73/100,"Biography,Crime,Drama,Mystery,Thriller","English,Spanish",132
+384,ParaNorman,2012,7,73/100,"Animation,Adventure,Comedy,Family,Fantasy,Mystery",English,92
+385,Holidate,2020,6.9,73/100,"Comedy,Romance","English,Mandarin",104
+386,Fear Street Part Two: 1978,2021,6.8,73/100,"Drama,Horror,Mystery",English,109
+387,Pee-wee's Big Holiday,2016,6.1,73/100,"Comedy,Family","English,Spanish",90
+388,Gunpowder Milkshake,2021,6,73/100,"Action,Adventure,Thriller","English,Russian",114
+389,"Michael Bolton's Big, Sexy Valentine's Day Special",2017,6.7,73/100,"Comedy,Music,Musical,Romance",English,54
+390,I Am Not Your Negro,2017,7.9,73/100,"Documentary,History","English,French",93
+391,Midnight Special,2016,6.6,73/100,"Drama,Mystery,Sci-Fi,Thriller",English,112
+392,Layla M.,2016,6.7,73/100,Drama,"Arabic,English,Dutch",98
+393,Homefront,2013,6.5,73/100,"Action,Crime,Thriller",English,100
+394,The Squid and the Whale,2005,7.3,73/100,"Comedy,Drama",English,81
+395,Comedian,2002,6.9,73/100,"Documentary,Comedy",English,82
+396,No Escape,2015,6.8,73/100,"Action,Thriller","English,French,Thai,Khmer,Mandarin",103
+397,Mercury 13,2018,6.9,73/100,Documentary,English,78
+398,The Professor and the Madman,2019,7.3,73/100,"Biography,Drama",English,124
+399,Asperger's Are Us,2016,6.7,73/100,"Documentary,Comedy,Drama",English,82
+400,The Garden of Words,2013,7.5,73/100,"Animation,Drama,Romance","Japanese,English",46
+401,Fractured,2019,6.4,73/100,"Mystery,Thriller",English,99
+402,The Queen,2006,7.3,73/100,"Biography,Drama,History","English,German,French",103
+403,The Whole Nine Yards,2000,6.9,72/100,"Comedy,Crime","English,French,Spanish",98
+404,E-Team,2014,7.1,72/100,"Documentary,War","English,German,Arabic,Russian,French",88
+405,The Discovery,2017,6.3,72/100,"Drama,Romance,Sci-Fi,Thriller",English,102
+406,The Strangers,2008,6.2,72/100,"Horror,Mystery,Thriller",English,86
+407,Penguins of Madagascar,2014,6.7,72/100,"Animation,Adventure,Comedy,Family,Sci-Fi","Spanish,Armenian,English,Italian,Mandarin",92
+408,She's Out of My League,2010,6.4,72/100,"Comedy,Romance","English,Ukrainian",104
+409,Voyeur,2017,6.2,72/100,"Drama,Romance","English,Italian",98
+410,It Comes at Night,2017,6.2,72/100,"Horror,Mystery,Sci-Fi",English,91
+411,The Manchurian Candidate,2004,6.6,72/100,"Drama,Mystery,Sci-Fi,Thriller",English,129
+412,Bon Cop Bad Cop 2,2017,6.7,72/100,"Action,Comedy,Crime","English,French",126
+413,Hot Rod,2007,6.7,72/100,"Comedy,Sport",English,88
+414,The BFG,2016,6.4,72/100,"Adventure,Family,Fantasy","English,Hindi",117
+415,Sunday's Illness,2018,6.9,72/100,Drama,"Spanish,French,Italian",113
+416,The Lorax,2012,6.4,72/100,"Animation,Adventure,Comedy,Drama,Family,Fantasy,Musical",English,86
+417,Win It All,2017,6.2,72/100,Comedy,English,88
+418,Mile 22,2018,6.1,72/100,"Action,Thriller","English,Russian,Indonesian,Filipino",94
+419,Tenacious D in The Pick of Destiny,2006,6.8,72/100,"Adventure,Comedy,Music,Musical",English,93
+420,The Sum of All Fears,2002,6.4,72/100,"Action,Drama,Thriller,War","English,Russian,Ukrainian,German,Arabic",124
+421,G.O.R.A.,2004,8,72/100,"Adventure,Comedy,Sci-Fi","Turkish,English",127
+422,The Perfect Date,2019,5.8,72/100,"Comedy,Romance",English,89
+423,Code 8,2019,6.1,72/100,"Action,Crime,Drama,Sci-Fi,Thriller",English,98
+424,Cowspiracy: The Sustainability Secret,2014,8.2,72/100,Documentary,English,90
+425,Life As We Know It,2010,6.5,72/100,"Comedy,Drama,Romance",English,115
+426,American Assassin,2017,6.2,72/100,"Action,Thriller","English,Spanish,Arabic,Polish,Turkish,Russian,Italian,Persian",111
+427,August: Osage County,2013,7.2,72/100,"Comedy,Drama",English,121
+428,Kuch Kuch Hota Hai,1998,7.6,72/100,"Comedy,Drama,Musical,Romance",Hindi,177
+429,Who Am I,2014,7.5,72/100,"Crime,Drama,Mystery,Sci-Fi,Thriller","German,English",102
+430,Free State of Jones,2016,6.9,72/100,"Action,Biography,Drama,History,War,Western",English,139
+431,Beast Stalker,2008,6.8,72/100,"Action,Thriller",Cantonese,109
+432,Dark Skies,2013,6.3,72/100,"Action,Adventure,Comedy,Horror,Sci-Fi,Thriller",English,86
+433,Safe Haven,2013,6.7,72/100,"Drama,Romance,Thriller","English,Portuguese",115
+434,BÄhubali 2: The Conclusion,2017,8.2,72/100,"Action,Drama","Hindi,Telugu,Tamil",167
+435,Outlaw King,2018,6.9,72/100,"Action,Biography,Drama,History,War","English,French,Scottish Gaelic,Latin",121
+436,Cloudy with a Chance of Meatballs 2,2013,6.4,72/100,"Animation,Adventure,Comedy,Family,Fantasy,Sci-Fi","English,Chinese",95
+437,Turbo,2013,6.4,72/100,"Animation,Adventure,Comedy,Family,Sci-Fi,Sport",English,96
+438,G.I. Joe: The Rise of Cobra,2009,5.8,72/100,"Action,Adventure,Sci-Fi,Thriller","English,French,Scottish Gaelic",118
+439,Horns,2013,6.5,72/100,"Comedy,Crime,Drama,Fantasy,Mystery,Thriller",English,120
+440,Drishyam,2015,8.4,72/100,"Crime,Drama,Mystery,Thriller","Hindi,English",163
+441,Triple Frontier,2019,6.4,72/100,"Action,Adventure,Crime,Thriller","English,Spanish,Portuguese",125
+442,"Hail, Caesar!",2016,6.3,72/100,"Comedy,Drama,Music,Mystery",English,106
+443,The Ice Road,2021,5.6,72/100,"Action,Adventure,Drama,Thriller",English,109
+444,Monster House,2006,6.5,72/100,"Animation,Comedy,Family,Fantasy,Mystery",English,91
+445,Freaks,2019,6.7,72/100,"Drama,Mystery,Sci-Fi,Thriller",English,105
+446,Felon,2008,7.4,72/100,Thriller,English,104
+447,Horse Girl,2020,6,72/100,"Drama,Mystery,Thriller",English,103
+448,A Christmas Prince,2017,5.8,72/100,"Comedy,Family,Romance",English,92
+449,Hillbilly Elegy,2020,6.7,72/100,Drama,English,116
+450,American Ultra,2015,6.1,72/100,"Action,Comedy","English,Mandarin",96
+451,First Match,2018,6.4,72/100,"Drama,Sport",English,102
+452,The Pelican Brief,1993,6,72/100,"Crime,Drama,Mystery,Thriller",English,141
+453,The Tourist,2010,6.1,72/100,"Action,Thriller","English,French,Italian,Russian,Spanish",103
+454,The Dawn Wall,2017,8.1,72/100,"Documentary,Biography,Sport",English,100
+455,I'm Thinking of Ending Things,2020,6.6,71/100,"Drama,Thriller","English,Spanish",134
+456,Shutter,2004,7.1,71/100,"Horror,Mystery,Thriller",Thai,97
+457,Surf's Up,2007,6.7,71/100,"Animation,Comedy,Family,Sport",English,85
+458,The Twilight Saga: Breaking Dawn - Part 2,2012,5.5,71/100,"Adventure,Drama,Fantasy,Romance",English,115
+459,Jagga Jasoos,2017,6.5,71/100,"Action,Adventure,Comedy,Musical,Mystery",Hindi,161
+460,The Burial of Kojo,2018,6.5,71/100,"Drama,Thriller","Akan,English",80
+461,My Best Friend's Wedding,1997,6.3,71/100,"Comedy,Drama,Romance","English,French,Italian",105
+462,Bee Movie,2007,6.5,71/100,"Animation,Adventure,Comedy,Family",English,91
+463,Seoul Searching,2015,7.1,71/100,"Comedy,Drama,Music,Romance","English,Korean,German",105
+464,Before I Fall,2017,6.5,71/100,"Drama,Fantasy,Mystery",English,98
+465,The Babysitter,2017,6.3,71/100,"Comedy,Horror",English,85
+466,After,2019,5.3,71/100,"Drama,Romance",English,105
+467,"As Above, So Below",2014,6.2,71/100,"Horror,Mystery,Thriller","English,French,Latin",93
+468,Bo Burnham: What.,2013,8.4,71/100,"Comedy,Music",English,60
+469,Stree,2018,7.6,71/100,"Comedy,Horror",Hindi,128
+470,Velvet Buzzsaw,2019,5.7,71/100,"Horror,Mystery,Thriller","English,Chinese,Italian",113
+471,Savages,2012,6.5,71/100,"Crime,Thriller","English,Spanish",131
+472,Jupiter Ascending,2015,5.3,71/100,"Action,Adventure,Sci-Fi","English,Russian",127
+473,Spectral,2016,6.3,71/100,"Action,Adventure,Sci-Fi","English,Russian,Romanian,Slovenian",107
+474,Resident Evil: Afterlife,2010,5.8,71/100,"Action,Adventure,Horror,Sci-Fi","English,Japanese,Spanish",96
+475,Accepted,2006,6.4,71/100,Comedy,English,93
+476,"Live Twice, Love Once",2019,7.2,71/100,"Comedy,Drama","Spanish,Catalan",101
+477,Iliza Shlesinger: Elder Millennial,2018,7.2,71/100,Comedy,English,72
+478,Zindagi Na Milegi Dobara,2011,8.2,71/100,"Comedy,Drama","Hindi,English,Spanish",155
+479,Free Fire,2017,6.4,71/100,"Action,Comedy,Crime,Thriller",English,91
+480,Soorma,2018,7.4,71/100,"Biography,Drama,Sport",Hindi,131
+481,The Zookeeper's Wife,2017,7,71/100,"Biography,Drama,History,War","English,German,Hebrew",127
+482,Time Share,2018,6,71/100,"Drama,Mystery,Thriller","Spanish,English",96
+483,The Outpost,2019,6.8,71/100,"Action,Adventure,Drama,Fantasy",English,44
+484,Kabir Singh,2019,7.1,71/100,"Action,Drama,Romance",Hindi,173
+485,Homecoming: A Film by BeyoncÃ©,2019,7.5,71/100,"Documentary,Music",English,137
+486,Jerry Seinfeld: 23 Hours to Kill,2020,6.7,71/100,Comedy,English,60
+487,Ip Man 4: The Finale,2019,7,71/100,"Action,Biography,Drama,History","Cantonese,English,Mandarin",107
+488,The Laundromat,2019,6.3,71/100,"Comedy,Crime,Drama,History","English,Mandarin,Spanish,Russian",95
+489,The 12th Man,2017,7.4,71/100,"Drama,History,Thriller,War","Norwegian,German,English,Saami",135
+490,Bad Trip,2020,6.6,71/100,Comedy,English,86
+491,Mr. Peabody & Sherman,2014,6.3,71/100,"Animation,Adventure,Comedy,Family,Sci-Fi",English,92
+492,Ip Man 3,2015,7.1,71/100,"Action,Biography,Drama,History","Cantonese,English",105
+493,Rang De Basanti,2006,8.1,71/100,"Comedy,Crime,Drama",Hindi,167
+494,The Midnight Sky,2020,5.6,71/100,"Drama,Fantasy,Sci-Fi,Thriller",English,118
+495,Mr. Right,2016,6.4,71/100,"Action,Comedy,Romance",English,95
+496,White Christmas,1954,7.6,71/100,"Comedy,Musical,Romance",English,120
+497,Synchronic,2020,6.2,71/100,"Drama,Sci-Fi,Thriller",English,102
+498,Adrift,2018,6.6,70/100,"Action,Adventure,Biography,Drama,Romance,Thriller","English,French",96
+499,The Game Changers,2019,7.9,70/100,Documentary,English,86
+500,Michelle Wolf: Joke Show,2019,7.2,70/100,Comedy,English,59
+501,Da 5 Bloods,2020,6.5,70/100,"Adventure,Drama,War","English,Finnish,French,Vietnamese",154
+502,The American,2010,6.3,70/100,"Crime,Drama,Thriller","English,Italian",105
+503,The Best of Enemies,2019,7.2,70/100,"Biography,Drama,History",English,133
+504,Forgotten,2017,7.54,70/100,"Horror,Mystery,Thriller",Korean,108
+505,I Don't Feel at Home in This World Anymore,2017,6.9,70/100,"Comedy,Crime,Drama,Thriller",English,93
+506,Lupin the Third: The Castle of Cagliostro,1979,7.6,70/100,"Animation,Action,Adventure,Fantasy","Japanese,English,French",100
+507,Never Back Down,2008,6.6,70/100,"Action,Drama,Sport",English,113
+508,Fear Street: 1666,2021,6.7,70/100,"Horror,Mystery",English,114
+509,Zathura: A Space Adventure,2005,6.2,70/100,"Action,Adventure,Comedy,Family,Fantasy,Sci-Fi",English,101
+510,"Faith, Hope & Love",2019,6.2,70/100,"Comedy,Romance",English,106
+511,2 States,2014,6.9,70/100,"Comedy,Drama,Romance",Hindi,149
+512,Grass is Greener,2019,7.2,70/100,Documentary,,97
+513,May the Devil Take You,2018,6,70/100,"Horror,Mystery,Thriller",Indonesian,110
+514,Double Jeopardy,1999,6.5,70/100,"Crime,Drama,Mystery,Thriller",English,105
+515,Ava,2020,5,70/100,"Action,Crime,Drama,Thriller","English,German,French,Chinese",96
+516,Barfi!,2012,8.1,70/100,"Comedy,Drama,Romance",Hindi,151
+517,Barry,2016,5.8,70/100,"Action,Comedy,Crime,Drama",English,30
+518,Go!,2020,5.9,70/100,"Comedy,Crime",English,102
+519,Everybody's Fine,2009,7.1,70/100,"Adventure,Drama",English,100
+520,Monty Python Live at the Hollywood Bowl,1982,7.9,70/100,"Documentary,Comedy,Musical",English,77
+521,Parker,2013,6.2,70/100,"Action,Crime,Thriller",English,118
+522,The Karate Kid Part II,1986,6.1,70/100,"Action,Family,Sport",English,113
+523,System Crasher,2019,7.8,70/100,Drama,"German,English",125
+524,Under Siege,1992,6.5,70/100,"Action,Thriller","English,Italian",103
+525,Brain on Fire,2017,6.6,70/100,"Biography,Drama",English,88
+526,The Butterfly's Dream,2013,7.7,70/100,"Biography,Drama,History,Romance",Turkish,138
+527,The Wrong Missy,2020,5.7,70/100,"Comedy,Romance",English,90
+528,Battle: Los Angeles,2011,5.7,70/100,"Action,Sci-Fi","English,Ukrainian",116
+529,Pari,2018,6.6,70/100,"Fantasy,Horror,Mystery",Hindi,136
+530,The Beguiled,2017,6.3,70/100,"Drama,Thriller,War","English,French",93
+531,Batman: The Killing Joke,2016,6.4,70/100,"Animation,Action,Crime,Drama,Thriller",English,76
+532,Sex Drive,2008,6.5,70/100,"Comedy,Romance",English,109
+533,Mosul,2020,7.2,70/100,"Action,Drama,War","Arabic,English",86
+534,PokÃ©mon the Movie: The Power of Us,2018,6.3,70/100,"Animation,Action,Adventure,Family,Fantasy,Sci-Fi",Japanese,100
+535,Underdogs,2013,6.5,70/100,"Comedy,Sport","English,German",92
+536,The Little Rascals,1994,6.3,70/100,"Comedy,Family,Romance",English,82
+537,Fun with Dick and Jane,2005,6.2,70/100,"Comedy,Crime","English,Spanish",90
+538,Ballerina,2016,6.8,70/100,"Animation,Adventure,Comedy,Family,Music",English,89
+539,Hasan Minhaj: Homecoming King,2017,8.3,70/100,Comedy,English,73
+540,An Easy Girl,2019,5.6,70/100,"Comedy,Drama","French,Italian,English",92
+541,Highway,2014,7.6,70/100,"Crime,Drama,Romance",Hindi,133
+542,The Book of Henry,2017,6.6,70/100,"Crime,Drama,Thriller",English,105
+543,Reversing Roe,2018,7.58,70/100,Documentary,English,99
+544,The Clovehitch Killer,2018,6.6,70/100,"Crime,Drama,Mystery,Thriller",English,109
+545,There's Something in the Water,2019,6.7,70/100,Documentary,English,73
+546,Stuart Little,1999,5.9,70/100,"Adventure,Comedy,Family,Fantasy","English,Dutch",84
+547,Barakah Meets Barakah,2016,6.3,70/100,"Comedy,Romance",Arabic,88
+548,Starsky & Hutch,2004,6.1,70/100,"Action,Crime,Drama,Mystery",,60
+549,Loving,2016,7,70/100,"Drama,Romance",Spanish,105
+550,Haider,2014,8.1,70/100,"Action,Crime,Drama,Thriller",Hindi,160
+551,The Twilight Saga: Eclipse,2010,5,70/100,"Action,Adventure,Drama,Fantasy,Romance,Thriller",English,124
+552,Triple 9,2016,6.3,70/100,"Action,Crime,Thriller","English,Spanish,Russian",115
+553,Spanglish,2004,6.4,70/100,"Comedy,Drama,Romance","English,Spanish",131
+554,The Spiderwick Chronicles,2008,6.5,70/100,"Action,Adventure,Drama,Family,Fantasy,Thriller",English,96
+555,Kahaani,2012,8.1,69/100,"Mystery,Thriller",Hindi,122
+556,Lady J,2018,6.9,69/100,"Drama,Romance",French,109
+557,The Interpreter,2005,6.4,69/100,"Crime,Mystery,Thriller","English,Aboriginal,French,Portuguese",128
+558,"Frankenstein's Monster's Monster, Frankenstein",2019,5.9,69/100,Comedy,English,32
+559,Not Another Teen Movie,2001,5.7,69/100,Comedy,English,89
+560,The Cloverfield Paradox,2018,5.5,69/100,"Action,Horror,Sci-Fi,Thriller","English,Mandarin,German",102
+561,Disclosure,2020,8.2,69/100,"Drama,Thriller",English,128
+562,Hot Girls Wanted,2015,6.1,69/100,Documentary,English,84
+563,Dead Man Down,2013,6.5,69/100,"Action,Crime,Drama,Thriller","English,French,Albanian,Spanish,Hungarian",118
+564,Fear Street: 1994,2021,6.2,69/100,"Drama,Horror,Mystery",English,107
+565,Kill the Irishman,2011,7.1,69/100,"Biography,Crime,Drama",English,106
+566,Set It Up,2018,6.5,69/100,"Comedy,Romance",English,105
+567,Case 39,2009,6.2,69/100,"Horror,Mystery,Thriller",English,109
+568,Outside the Wire,2021,5.4,69/100,"Action,Adventure,Fantasy,Sci-Fi","English,Ukrainian,Russian",114
+569,Steal a Pencil for Me,2007,7.5,69/100,"Documentary,Romance","English,Dutch",94
+570,Project Power,2020,6,69/100,"Action,Crime,Sci-Fi,Thriller","English,Spanish",113
+571,High Strung Free Dance,2018,6.9,69/100,"Music,Romance",English,103
+572,The Twilight Saga: Breaking Dawn - Part 1,2011,4.9,69/100,"Adventure,Drama,Fantasy,Romance,Thriller","English,Portuguese",117
+573,Marc Maron: Too Real,2017,7.2,69/100,Comedy,English,70
+574,The Polka King,2017,5.9,69/100,"Biography,Comedy,Drama,Music",English,95
+575,6 Balloons,2018,5.9,69/100,Drama,English,74
+576,Amanda Knox,2016,6.9,69/100,"Documentary,Crime","English,Italian",92
+577,At Eternity's Gate,2018,6.9,69/100,"Biography,Drama","English,French",111
+578,Anon,2018,6.1,69/100,"Crime,Sci-Fi,Thriller",English,100
+579,3 Days to Kill,2014,6.2,69/100,"Action,Drama,Thriller","English,French,German,Serbian",117
+580,To the Bone,2017,6.8,69/100,Drama,English,107
+581,Trollhunters: Rise of the Titans,2021,7,69/100,"Animation,Action,Adventure,Comedy,Drama,Family,Fantasy",English,104
+582,Mowgli: Legend of the Jungle,2018,6.5,69/100,"Adventure,Drama,Fantasy","English,Hindi",104
+583,Mother's Day,2016,5.7,69/100,"Comedy,Drama,Romance","English,Spanish",118
+584,Mortal Kombat,1995,5.8,69/100,"Action,Adventure,Fantasy,Sci-Fi,Thriller","English,Japanese,Chinese",110
+585,Creep,2014,6.3,69/100,"Horror,Thriller",English,77
+586,Death to 2020,2020,6.8,69/100,Comedy,English,70
+587,Operation Finale,2018,6.6,69/100,"Biography,Drama,History,Thriller,War","English,Spanish,French,German,Hebrew",122
+588,The Great Hack,2019,7,69/100,"Documentary,Biography,History",English,114
+589,The Land of Steady Habits,2018,6.2,69/100,"Comedy,Drama",English,98
+590,Suffragette,2015,6.9,69/100,"Drama,History",English,106
+591,Wildlife,2018,6.8,69/100,Drama,English,105
+592,War Machine,2017,6,69/100,"Comedy,Drama,War","English,Pashto",122
+593,Bending the Arc,2017,7.8,69/100,Documentary,English,102
+594,Kill the Messenger,2014,6.9,69/100,"Biography,Crime,Drama,Mystery,Thriller",English,112
+595,Feminists: What Were They Thinking?,2018,7,69/100,Documentary,English,86
+596,If Anything Happens I Love You,2020,7.8,69/100,"Animation,Short,Drama",None,13
+597,Nobody Speak: Trials of the Free Press,2017,6.5,69/100,Documentary,English,95
+598,Sand Castle,2017,6.3,69/100,"Action,Drama,War","English,Arabic",113
+599,The Forest of Love,2019,6.3,69/100,"Crime,Drama,Horror,Thriller","Japanese,English",151
+600,Kabhi Alvida Naa Kehna,2006,6.1,69/100,"Drama,Romance","Hindi,English",193
+601,Fatherhood,2021,6.7,69/100,"Comedy,Drama",English,109
+602,Our Idiot Brother,2011,6.4,69/100,"Comedy,Drama",English,90
+603,QuiÃ©n te cantarÃ¡,2018,7,68/100,"Drama,Music,Mystery",Spanish,125
+604,Takers,2010,6.2,68/100,"Action,Crime,Thriller","English,Russian",107
+605,Udaan,2010,8.2,68/100,Drama,"Tamil,Hindi",153
+606,City of Joy,2016,7.5,68/100,Drama,English,132
+607,Under the Shadow,2016,6.9,68/100,"Drama,Fantasy,Horror,Thriller,War",Persian,84
+608,The Silence of Others,2019,8,68/100,Documentary,"Spanish,English,Basque,Catalan",96
+609,Nacho Libre,2006,5.8,68/100,"Comedy,Family,Sport","English,Spanish",92
+610,Ninja Assassin,2009,6.3,68/100,"Action,Thriller",English,99
+611,The Twilight Saga: New Moon,2009,4.7,68/100,"Adventure,Drama,Fantasy,Romance","English,Italian",130
+612,Rocks,2020,7.5,68/100,Drama,English,93
+613,Step Up Revolution,2012,6.4,68/100,"Drama,Music,Romance",English,99
+614,Giving Voice,2020,6.7,68/100,Documentary,English,87
+615,Like Father,2018,6.1,68/100,"Comedy,Drama",English,98
+616,Eddie Murphy Raw,1987,7.7,68/100,"Documentary,Comedy",English,93
+617,Berserk: The Golden Age Arc III - The Advent,2013,7.9,68/100,"Animation,Action,Adventure,Drama,Fantasy,Horror","Japanese,English",110
+618,Aval,2017,6.8,68/100,Horror,"Telugu,Tamil,Hindi",137
+619,The Promise,2016,6,68/100,"Action,Adventure,Drama,History,War","English,Armenian,German,French,Turkish",133
+620,Prospect,2018,6.3,68/100,"Drama,Sci-Fi,Thriller,Western",English,100
+621,Ne Zha,2019,7.5,68/100,"Animation,Action,Adventure,Family,Fantasy,Thriller","Mandarin,English",110
+622,Bad Genius,2017,7.6,68/100,"Comedy,Crime,Drama,Thriller","Thai,English",130
+623,Burning Sands,2017,6.1,68/100,Drama,English,96
+624,Ludo,2020,7.6,68/100,"Action,Comedy,Crime,Drama",Hindi,150
+625,Eat Pray Love,2010,5.8,68/100,"Biography,Drama,Romance","English,Italian,Portuguese",133
+626,Circle,2015,6,68/100,"Drama,Horror,Mystery,Sci-Fi,Thriller",English,87
+627,Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,2019,7.6,68/100,"Documentary,Biography,History,Music",English,142
+628,Dovlatov,2018,6.4,68/100,"Biography,Drama","Russian,Spanish,Finnish",126
+629,Lakshya,2004,7.9,68/100,"Action,Drama,Romance,War",Hindi,186
+630,American Murder: The Family Next Door,2020,7.2,68/100,"Documentary,Crime",English,82
+631,Jab We Met,2007,7.9,68/100,"Comedy,Drama,Romance",Hindi,138
+632,Kuchh Bheege Alfaaz,2018,7.5,68/100,Romance,Hindi,116
+633,John Mulaney: The Comeback Kid,2015,8,68/100,Comedy,English,62
+634,Apostle,2018,6.3,68/100,"Drama,Fantasy,Horror,Mystery,Thriller","English,Chinese",130
+635,After We Collided,2020,5.2,68/100,"Drama,Romance","English,Chinese",105
+636,Mystic Pizza,1988,6.3,68/100,"Comedy,Drama,Romance",English,104
+637,Middle Men,2009,6.8,68/100,"Comedy,Crime,Drama",English,105
+638,To All the Boys: P.S. I Still Love You,2020,6,68/100,"Comedy,Drama,Romance",English,101
+639,Malang,2020,6.5,68/100,"Action,Crime,Drama,Romance,Thriller",Hindi,135
+640,Someone Great,2019,6.2,68/100,"Comedy,Romance",English,92
+641,Time Trap,2017,6.3,68/100,"Action,Adventure,Mystery,Sci-Fi",English,87
+642,In This Corner of the World,2016,7.8,68/100,"Animation,Drama,Family,History,War",Japanese,129
+643,C/o Kancharapalem,2018,9,68/100,Drama,Telugu,152
+644,Agneepath,1990,7.7,68/100,"Action,Crime,Drama","Hindi,Marathi,English",174
+645,The Package,2018,5.5,67/100,"Comedy,Thriller",English,94
+646,Tau,2018,5.8,67/100,"Sci-Fi,Thriller",English,97
+647,Your Highness,2011,5.5,67/100,"Adventure,Comedy,Fantasy,Romance",English,102
+648,Alexander,2004,5.6,67/100,"Action,Biography,Drama,History,War",English,175
+649,Rurouni Kenshin: The Final,2021,7.2,67/100,"Action,Adventure,Drama",Japanese,138
+650,Bill Burr: I'm Sorry You Feel That Way,2014,8.3,67/100,Comedy,English,80
+651,Berserk: The Golden Age Arc I - The Egg of the King,2012,7.6,67/100,"Animation,Action,Adventure,Fantasy","Japanese,English,German",76
+652,All the Bright Places,2020,6.5,67/100,"Drama,Romance",English,107
+653,Streets of Fire,1984,6.7,67/100,"Action,Crime,Drama,Music,Romance,Thriller",English,93
+654,Sleepless,2017,5.6,67/100,"Action,Crime,Thriller",English,95
+655,An Egyptian Story,1982,7.3,67/100,Drama,Arabic,115
+656,Major Grom: Plague Doctor,2021,6.3,67/100,"Action,Adventure",Russian,136
+657,Struggle: The Life and Lost Art of Szukalski,2018,8,67/100,Documentary,English,115
+658,Seaspiracy,2021,8.2,67/100,"Documentary,Adventure",English,89
+659,Wish I Was Here,2014,6.7,67/100,"Comedy,Drama",English,106
+660,Moxie,2021,6.7,67/100,"Comedy,Drama,Music",English,111
+661,18 Presents,2020,6.7,67/100,Drama,Italian,115
+662,Oxygen,2021,6.5,67/100,"Drama,Fantasy,Sci-Fi,Thriller",French,100
+663,Private Life,2018,7.2,67/100,"Comedy,Drama",English,123
+664,The Grandmaster,2013,6.6,67/100,"Action,Biography,Drama,Romance,War","Mandarin,Cantonese,Japanese",130
+665,Home Again,2017,5.8,67/100,"Comedy,Drama,Romance",English,97
+666,Athlete A,2020,7.6,67/100,"Documentary,Crime,Sport",English,103
+667,The Outsider,2018,6.3,67/100,"Crime,Drama,Fantasy,Mystery,Thriller",English,60
+668,The Fourth Kind,2009,5.9,67/100,"Horror,Mystery,Sci-Fi,Thriller","English,Aboriginal",98
+669,Bastille Day,2016,6.3,67/100,"Action,Crime,Drama,Thriller","English,French",92
+670,The Whole Truth,2016,6.2,67/100,"Crime,Drama,Mystery,Thriller",English,93
+671,Ibiza,2018,5.2,67/100,"Comedy,Romance",English,94
+672,Sabotage,2014,5.7,67/100,"Action,Crime,Drama,Thriller","English,Spanish",109
+673,Penguin Bloom,2021,6.8,67/100,Drama,English,95
+674,The Kissing Booth 2,2020,5.8,67/100,"Comedy,Romance",English,134
+675,Kingsglaive: Final Fantasy XV,2016,6.8,67/100,"Animation,Action,Adventure,Drama,Family,Fantasy,Sci-Fi","Japanese,English,Chinese",110
+676,Mirai,2018,7,67/100,"Animation,Adventure,Drama,Family,Fantasy","Japanese,English",98
+677,Child's Play 2,1990,5.9,67/100,"Horror,Thriller",English,84
+678,World Trade Center,2006,5.9,67/100,"Drama,History,Thriller",English,129
+679,OMG: Oh My God!,2012,8.1,67/100,"Comedy,Drama,Fantasy","Hindi,English",125
+680,A Private War,2018,6.7,67/100,"Biography,Drama,War",English,110
+681,Get on Up,2014,6.9,67/100,"Biography,Drama,Music",English,139
+682,The Possession,2012,5.9,67/100,"Horror,Mystery,Thriller","English,Polish,Yiddish",92
+683,The Angry Birds Movie 2,2019,6.4,67/100,"Animation,Adventure,Comedy,Family",English,97
+684,Stowaway,2021,5.6,67/100,"Drama,Sci-Fi,Thriller",English,116
+685,Bill Burr: You People Are All The Same,2012,8.3,67/100,Comedy,English,69
+686,Four Christmases,2008,5.7,67/100,"Comedy,Drama,Romance",English,88
+687,Bombay Talkies,2013,6.7,67/100,Drama,"Hindi,English",127
+688,Vampire Academy,2014,5,67/100,"Action,Comedy,Drama,Fantasy,Horror,Mystery,Thriller",English,104
+689,Brick Mansions,2014,5.5,67/100,"Action,Crime,Thriller","English,Chinese",90
+690,Kingdom: Ashin of the North,2021,7.1,67/100,"Action,Drama,History,Horror,Thriller",Korean,92
+691,Andaz Apna Apna,1994,8.1,67/100,"Action,Comedy,Romance",Hindi,160
+692,Emicida: AmarElo - It's All for Yesterday,2020,8.5,67/100,"Documentary,Music",Portuguese,89
+693,Blue Miracle,2021,6.7,67/100,"Adventure,Biography,Drama,Family",English,95
+694,Holding the Man,2015,7.4,67/100,"Biography,Drama,Romance",English,127
+695,Small Town Crime,2018,6.6,67/100,"Crime,Mystery,Thriller",English,91
+696,Ek Ladki Ko Dekha Toh Aisa Laga,2019,5.5,67/100,"Comedy,Drama,Romance",Hindi,120
+697,First They Killed My Father,2017,7.2,67/100,"Biography,Drama,History,War","Khmer,English,French",136
+698,Rising Phoenix,2020,8.1,67/100,"Documentary,Sport",English,105
+699,The Wolf's Call,2019,6.9,67/100,"Action,Adventure,Sci-Fi,Thriller",French,115
+700,Paan Singh Tomar,2012,8.2,67/100,"Action,Biography,Crime,Sport,Thriller",Hindi,135
+701,John Mulaney & The Sack Lunch Bunch,2019,7.5,67/100,"Comedy,Family,Musical",English,70
+702,Seventh Son,2015,5.5,67/100,"Action,Adventure,Fantasy",English,102
+703,The Death of Mr. Lazarescu,2005,7.9,67/100,"Comedy,Drama",Romanian,153
+704,The Occupant,2020,6.4,67/100,"Adventure,Drama,Thriller",Spanish,103
+705,The Body Remembers When the World Broke Open,2019,6.9,67/100,Drama,English,105
+706,The Woman in the Window,2021,5.7,67/100,"Crime,Drama,Mystery,Thriller",English,100
+707,Berlin Syndrome,2017,6.3,67/100,"Drama,Horror,Mystery,Thriller","English,German,Russian",116
+708,What the Health,2017,7.4,67/100,Documentary,English,97
+709,The Runaways,2010,6.5,67/100,"Biography,Drama,Music",English,106
+710,Kodachrome,2017,6.8,67/100,Drama,English,105
+711,Croupier,1998,7.1,67/100,"Crime,Drama",English,94
+712,The Smurfs,2011,5.4,67/100,"Animation,Adventure,Comedy,Family,Fantasy",English,103
+713,Muppets Most Wanted,2014,6.4,67/100,"Adventure,Comedy,Crime,Family,Musical,Mystery","English,German",107
+714,Creep 2,2017,6.5,67/100,"Crime,Drama,Horror,Thriller",English,78
+715,Mandela: Long Walk to Freedom,2013,7.1,66/100,"Biography,Drama,History","English,Afrikaans,Xhosa",141
+716,Toilet: A Love Story,2017,7.2,66/100,"Comedy,Drama",Hindi,155
+717,The Square,2013,8.1,66/100,"Comedy,Drama","Swedish,English,Danish",151
+718,Jerry Seinfeld: I'm Telling You for the Last Time,1998,7.9,66/100,Comedy,English,75
+719,"Roxanne, Roxanne",2017,6.2,66/100,"Comedy,Romance",English,107
+720,Riphagen The Untouchable,2016,7.1,66/100,"Short,Music",English,4
+721,Dear Zindagi,2016,7.5,66/100,"Drama,Romance",Hindi,151
+722,Vizontele,2001,8,66/100,"Comedy,Drama",Turkish,110
+723,Good on Paper,2021,5.6,66/100,"Comedy,Romance",English,92
+724,Ophelia,2019,6.6,66/100,"Drama,Romance,Thriller","English,Norwegian,Latin",114
+725,Black Sea,2014,6.4,66/100,"Adventure,Drama,Thriller","English,Russian",114
+726,Girl,2018,7.1,66/100,Thriller,English,92
+727,Irreplaceable You,2018,6.4,66/100,"Comedy,Drama,Romance",English,96
+728,The Do-Over,2016,5.7,66/100,"Action,Adventure,Comedy,Mystery",English,108
+729,Metallica: Some Kind of Monster,2004,7.5,66/100,"Documentary,Music",English,141
+730,Handsome Devil,2017,5.5,66/100,"Comedy,Drama,Sport","English,Latin",95
+731,Unfriended,2015,5.5,66/100,"Horror,Mystery,Thriller",English,83
+732,Visaranai,2016,8.5,66/100,"Crime,Drama,Thriller",Tamil,117
+733,Been So Long,2018,5.5,66/100,"Drama,Musical,Romance",,100
+734,Yes Day,2021,5.7,66/100,"Comedy,Family","English,Spanish",86
+735,Blood Red Sky,2021,6.1,66/100,"Action,Horror,Thriller","German,English,Arabic",121
+736,The Bleeding Edge,2018,7.6,66/100,Documentary,English,99
+737,Tread,2020,7.1,66/100,Documentary,English,89
+738,Berserk: The Golden Age Arc II - The Battle for Doldrey,2012,7.8,66/100,"Animation,Action,Adventure,Fantasy","Japanese,English",95
+739,Kevin Hart: Irresponsible,2019,6.5,66/100,Comedy,English,60
+740,In the Tall Grass,2019,5.4,66/100,"Horror,Mystery,Sci-Fi,Thriller",English,101
+741,Wadjda,2012,7.5,66/100,"Comedy,Drama",Arabic,98
+742,Ferry,2021,7,66/100,"Action,Crime,Drama,Thriller","Flemish,Dutch",106
+743,The Heartbreak Kid,2007,5.8,66/100,"Comedy,Romance","English,Spanish",116
+744,Fools Rush In,1997,6.1,66/100,"Comedy,Drama,Romance","English,Spanish",109
+745,Wild Child,2008,6.1,66/100,"Comedy,Drama,Romance",English,98
+746,The Lovebirds,2020,6.1,66/100,"Action,Comedy,Crime,Mystery,Romance,Thriller",English,86
+747,Machete Kills,2013,5.6,66/100,"Action,Crime,Thriller","English,Spanish",107
+748,Sergio,2020,6.1,66/100,"Biography,Drama,History,Romance","English,Portuguese,Spanish,French",118
+749,The Last Letter From Your Lover,2021,6.8,66/100,"Drama,Romance",English,110
+750,Kursk,2018,6.6,66/100,"Action,Adventure,Drama,History,Thriller","English,Russian",117
+751,Then Came You,2019,7,66/100,"Adventure,Comedy,Drama",,97
+752,Gantz:O,2016,7.1,66/100,"Animation,Action,Drama,Fantasy,Horror,Sci-Fi,Thriller",Japanese,95
+753,Jenny Slate: Stage Fright,2019,5.9,66/100,"Comedy,Reality-TV",English,66
+754,Taylor Swift: Reputation Stadium Tour,2018,8.4,66/100,"Documentary,Music",,125
+755,Jodhaa Akbar,2008,7.6,66/100,"Action,Drama,History,Romance,War","Hindi,Urdu",213
+756,Red Joan,2018,6.4,66/100,"Biography,Drama,History,Romance",English,101
+757,Amateur,2018,5.9,66/100,"Drama,Sport",English,96
+758,What a Girl Wants,2003,5.8,66/100,"Comedy,Drama,Family,Romance",English,105
+759,Quigley Down Under,1990,6.9,66/100,"Action,Adventure,Drama,Romance,Western","English,Aboriginal",119
+760,Cop Out,2010,5.6,66/100,"Action,Comedy,Crime","English,Spanish",107
+761,Mindhorn,2016,6.3,66/100,"Comedy,Thriller",English,89
+762,Katt Williams: Great America,2018,6.1,66/100,Comedy,English,60
+763,Lingua Franca,2020,6.4,66/100,Drama,"English,Tagalog,Russian",89
+764,Abduction,2011,5.1,66/100,"Action,Mystery,Thriller",English,106
+765,Copenhagen,2014,7.1,66/100,"Adventure,Drama,Romance","English,Danish",98
+766,High Flying Bird,2019,6.2,66/100,"Drama,Sport",English,90
+767,Free to Play,2014,7.8,66/100,"Documentary,Action","English,Chinese,Russian,Czech,Bulgarian,Japanese,German,Spanish",75
+768,Life of Crime,2013,5.8,66/100,"Comedy,Crime",English,98
+769,A Very Murray Christmas,2015,5.5,66/100,"Comedy,Music,Musical",English,56
+770,The Silence,2019,5.3,65/100,"Drama,Horror,Sci-Fi,Thriller","English,American Sign Language",90
+771,Sarah's Key,2010,7.5,65/100,"Drama,War","French,English,Italian,German,Yiddish",111
+772,Abducted in Plain Sight,2018,6.8,65/100,"Documentary,Crime",English,91
+773,Winchester,2018,5.5,65/100,"Biography,Drama,Horror,Mystery,Thriller",English,99
+774,Our Souls at Night,2017,6.9,65/100,"Drama,Romance",English,103
+775,The Karate Kid Part III,1989,5.3,65/100,"Action,Drama,Family,Sport",English,112
+776,Haseen Dillruba,2021,6.9,65/100,"Crime,Drama,Mystery,Romance,Thriller",Hindi,135
+777,SampleThis,2013,6.4,65/100,"Documentary,Music",English,85
